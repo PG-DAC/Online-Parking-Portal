@@ -1,0 +1,47 @@
+{
+  "name": "login-register-crud",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bootstrap": "^4.6.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "moment": "^2.29.0",
+    "popper.js": "^1.15.0",
+    "react": "^16.13.1",
+    "react-bootstrap": "^2.2.3",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.3.1",
+    "react-moment": "^1.0.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^2.1.8",
+    "react-toastify": "^8.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts  start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "In the project directory, you can run:",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
